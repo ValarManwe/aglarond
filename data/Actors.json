@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"tim","characterIndex":0,"characterName":"tim","classId":2,"equips":[1,0,0,3,0],"faceIndex":0,"faceName":"Tim","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tim","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"melissa","characterIndex":0,"characterName":"melissa2","classId":3,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Melissa","traits":[],"initialLevel":1,"maxLevel":99,"name":"Melissa","nickname":"","note":"","profile":""}
+]
